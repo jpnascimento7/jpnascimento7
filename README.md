@@ -1,13 +1,8 @@
 # Hi, I'm João Pedro Nascimento Farias! 👋
 
-I'm a 3rd-semester **Computer Engineering** student currently dedicating my studies to **Back-end** development. I'm passionate about technology, problem-solving, and focused on building robust and efficient applications.
-
 ## 👨‍💻 About me
 
-- 🎓 Currently in my 3rd semester of Computer Engineering.
-- 💻 Main focus on Back-end development.
-- 🌱 Deepening my knowledge in the Spring ecosystem and best practices.
-- 📍 Eusébio / Fortaleza - CE, Brazil.
+I'm a 3rd-semester **Computer Engineering** student currently dedicating my studies to **Back-end** development. I'm passionate about technology, problem-solving, and focused on building robust and efficient applications.
 
 ## 🚀 Technologies and Tools
 
