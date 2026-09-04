@@ -24,6 +24,4 @@ Fique à vontade para se conectar comigo!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedronascimentofarias?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
----
-⭐️ *Sinta-se à vontade para explorar meus repositórios abaixo!*
 
